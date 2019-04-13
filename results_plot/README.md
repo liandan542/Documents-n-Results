@@ -16,4 +16,5 @@ Accuracy and loss plot of different models.
 * ***First attempt***   
   ```Batch Size``` : 32   
 * ***Second attempt***   
-  ```Batch Size``` : 64
+  ```Batch Size``` : 64   
+  ```lr``` : 0.01
