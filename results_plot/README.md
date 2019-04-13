@@ -1,4 +1,4 @@
-### Results Plot of Trained Models
+# Results Plot of Trained Models
 Accuracy and loss plot of different models.
 ## DenseNet121
 * ***First attempt***   
