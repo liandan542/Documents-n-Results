@@ -1,7 +1,7 @@
 ### Results Plot of Trained Models
 Accuracy and loss plot of different models.
 ## DenseNet121
-* First attempt   
+* ***First attempt***   
   ```Batch Size``` : 32   
-* Second attempt
+* ***Second attempt***   
   ```Batch Size``` : 64
