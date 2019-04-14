@@ -18,3 +18,6 @@ Accuracy and loss plot of different models.
 * ***Second attempt***   
   ```Batch Size``` : 64   
   ```lr``` : 0.01
+## VGG like 
+* ***First attempt***   
+  ```Batch Size``` : 128   
