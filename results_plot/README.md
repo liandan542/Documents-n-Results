@@ -36,4 +36,4 @@ Accuracy and loss plot of different models.
   ```Batch Size``` : 128   
   ```lr``` : 0.01   
   ```validation_split``` : 0.2   
-  ```test_acc``` :   
+  ```test_acc``` :   0.84
