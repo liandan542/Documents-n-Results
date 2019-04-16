@@ -37,7 +37,7 @@ Accuracy and loss plot of different models.
   ```lr``` : 0.01   
   ```validation_split``` : 0.2   
   ```test_acc``` :   0.84
-* ***3rd attempt***   
+* ***4th attempt***   
   ```Data``` : Full load   
   ```Batch Size``` : 64   
   ```lr``` : 5   
