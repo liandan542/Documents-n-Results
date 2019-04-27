@@ -12,13 +12,19 @@ Accuracy and loss plot of different models.
   ```Batch Size``` : 128   
   ```lr``` : 0.001   
   ```validation_split``` : 0.3   
-  ```test_acc``` : 0.65   
+  ```test_acc``` : 0.65(false)   
 * ***4th attempt***   
   ```Data``` : Full load   
   ```Batch Size``` : 512   
   ```lr``` : 0.001   
   ```validation_split``` : 0.3   
-  ```test_acc``` : 0.94      
+  ```test_acc``` : 0.94(false)      
+* ***5th attempt***   
+  ```Data``` : Full load   
+  ```Batch Size``` : 512   
+  ```lr``` : 1e-5   
+  ```validation_split``` : 0.3   
+  ```test_acc``` : 0.82396      
 ## VGG like 
 * ***First attempt***   
   ```Batch Size``` : 128   
