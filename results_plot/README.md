@@ -29,7 +29,7 @@ Accuracy and loss plot of different models.
   ```Data``` : Full load   
   ```Batch Size``` : 512   
   ```lr``` : 1e-5   
-  ```dense block``` : 2 (original 4)
+  ```dense block``` : 2 (original 4)   
   ```validation_split``` : 0.3   
   ```test_acc``` : 83.92%    
 ## VGG like 
