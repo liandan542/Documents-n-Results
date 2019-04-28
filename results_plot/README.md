@@ -25,6 +25,13 @@ Accuracy and loss plot of different models.
   ```lr``` : 1e-5   
   ```validation_split``` : 0.3   
   ```test_acc``` : 0.82396      
+* ***6th attempt***   
+  ```Data``` : Full load   
+  ```Batch Size``` : 512   
+  ```lr``` : 1e-5   
+  ```dense block``` : 2 (original 4)
+  ```validation_split``` : 0.3   
+  ```test_acc``` : 83.92%    
 ## VGG like 
 * ***First attempt***   
   ```Batch Size``` : 128   
